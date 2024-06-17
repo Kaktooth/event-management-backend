@@ -1,0 +1,3 @@
+INSERT INTO chat
+VALUES ('3fb04bbf-8109-4244-b550-44d1668e758f', 'New Chat', '2024-05-17T19:33:15',
+        'd0bfcea7-0890-42b1-a5ab-68bba14b5598')

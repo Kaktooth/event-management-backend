@@ -1,0 +1,3 @@
+INSERT INTO chat_guest
+VALUES ('3fb04bbf-8109-4244-b550-44d1668e758f', 'd0bfcea7-0890-42b1-a5ab-68bba14b5598'),
+       ('3fb04bbf-8109-4244-b550-44d1668e758f', '8a9f7c21-e436-42c1-9386-1241cf7bcfb9')
